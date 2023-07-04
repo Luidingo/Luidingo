@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 깃허브 프로필
+<br>
+<br>
+
+< 깃허브 프로필 >
 <br>
 
 ![Luidingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luidingo&show_icons=true&theme=dark)   
@@ -29,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- 깃허브 언어 통계
+< 깃허브 언어 통계 >
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luidingo&layout=compact&theme=Darcula)
