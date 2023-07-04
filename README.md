@@ -1,5 +1,5 @@
 ### 게임 클라이언트 프로그래머가 되기 위해 노력 중인 학생입니다. 잘 부탁드립니다 <br>
-### I'm junior is trying to be game programmer. 
+#### I'm junior is trying to be game programmer. 
 
 <!--
 **Luidingo/Luidingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
