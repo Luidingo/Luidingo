@@ -21,6 +21,7 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bobossjung)](https://solved.ac/bobossjung)
 </div>
+
 ---
 <br>
 <h3 align="center">🔧 Tech Stack 🔨</h3>
