@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Luidingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luidingo&show_icons=true&theme=dark)   
+<br>
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bobossjung)](https://solved.ac/bobossjung)
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luidingo&layout=Demo&theme=Darcula)
