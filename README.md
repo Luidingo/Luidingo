@@ -1,5 +1,5 @@
 ### 언리얼 클라이언트 개발자 정용표입니다. 잘 부탁드립니다 <br>
-#### I'm junior is trying to be game programmer. 
+#### I'm junior Unreal client programmer. 
 
 ---
 <div align="center">
