@@ -1,21 +1,8 @@
-### 언리얼 클라이언트 개발자 정용표입니다. 잘 부탁드립니다 <br>
-#### I'm junior Unreal client programmer. 
+### 클라이언트 개발자 정용표입니다. 잘 부탁드립니다 <br>
+#### I'm junior client programmer. 
 
 ---
 <div align="center">
-  
-</div>
-<h3 align="center">❗ 깃허브 ❗</h3>
-<div align="center">
-  
-  ![Luidingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luidingo&show_icons=true&theme=dark)
-</div>
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luidingo&layout=compact&theme=Darcula)
-</div>
-<br>
-
 <h3 align="center">⚡ 백준 ⚡</h3>
 <div align="center">
   
